@@ -19,7 +19,7 @@ const { Queue } = require("../estructuras")
 
 var controlAcces = function(queue, event){
     // Tu código aca:
-    
+
   };
       
   
